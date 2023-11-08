@@ -38,4 +38,6 @@
 ### その後の機能
 * X(旧Twitter)共有機能
 * テスト機能
-	
+
+### 画面遷移図
+https://www.figma.com/file/rV5JsgO8XIpcWW94alOSlt/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=fLQVgQF7MfOM9Bd7-1

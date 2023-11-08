@@ -47,4 +47,5 @@
 * X(旧Twitter)共有機能
 * ゲストログイン機能
 
-	
+## 画面遷移図
+https://www.figma.com/file/kSdCaA3DkqwjsozbcP6dEn/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=MAya8pOUuF6tBwFa-1

@@ -48,4 +48,4 @@
 * ゲストログイン機能
 
 ### 画面遷移図
-https://www.figma.com/file/rV5JsgO8XIpcWW94alOSlt/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=1KCsME8b47W7hO4v-1
+https://www.figma.com/file/rV5JsgO8XIpcWW94alOSlt/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=MlwhR0gQXIzJUpGn-1

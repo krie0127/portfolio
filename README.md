@@ -51,4 +51,4 @@
 https://www.figma.com/file/rV5JsgO8XIpcWW94alOSlt/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=FpjjR2lUfZbebZmH-1
 
 ## ER図
-[![Image from Gyazo](https://i.gyazo.com/20aeecc3c9a5b8165de3545715e2b6c2.png)](https://gyazo.com/20aeecc3c9a5b8165de3545715e2b6c2)
+[![Image from Gyazo](https://i.gyazo.com/4de291b8be8a72d7de6cc7031003cccb.png)](https://gyazo.com/4de291b8be8a72d7de6cc7031003cccb)
